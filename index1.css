@@ -4,3 +4,15 @@
     box-sizing: border-box;
 }
 
+form {
+    padding: 10px;
+}
+
+.email-box {
+    margin: 10px;
+}
+
+.text-box {
+    margin: 10px;
+}
+
